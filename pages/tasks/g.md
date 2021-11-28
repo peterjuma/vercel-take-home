@@ -12,7 +12,7 @@ author: You
 
 **What do you think is one of the most common problems which customers ask Vercel for help with?**
 
-_Custom DNS configuration errors._
+_Custom domain configuration errors._
 
 **How would you help customers to overcome common problems, short-term and long-term?**
 
